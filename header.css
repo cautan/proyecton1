@@ -1,0 +1,19 @@
+#header{
+    background-color: green;
+}
+header{
+    background-color: red;
+} 
+.header {
+    background-color: rgb(9, 167, 230) !important;
+}
+li{ 
+    display: inline;
+}
+.enlacesli{ 
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
